@@ -1,0 +1,28 @@
+{
+    "ds_raw": "./ds_raw.h5",
+    "ds_fit": "./ds_fit.h5",
+    "fit_results": {
+        "Q5": {
+            "iw_angle": 0.25546747363834177,
+            "ge_threshold": 0.0005535180366748298,
+            "rus_threshold": 0.000444742431259211,
+            "readout_fidelity": 84.94999999999999,
+            "confusion_matrix": [
+                [
+                    0.845,
+                    0.155
+                ],
+                [
+                    0.146,
+                    0.854
+                ]
+            ],
+            "success": true
+        }
+    },
+    "figures": {
+        "iq_blobs": "./figures.iq_blobs.png",
+        "confusion_matrix": "./figures.confusion_matrix.png",
+        "histograms": "./figures.histograms.png"
+    }
+}
